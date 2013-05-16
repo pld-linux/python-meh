@@ -28,7 +28,7 @@ BuildRequires:	python-devel
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.219
-Requires:	gtk3
+Requires:	gtk+3
 Requires:	libreport-cli >= %{libreportver}
 Requires:	libreport-gtk >= %{libreportver}
 Requires:	openssh-clients
