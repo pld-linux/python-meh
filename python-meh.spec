@@ -34,6 +34,7 @@ Requires:	libreport-gtk >= %{libreportver}
 Requires:	openssh-clients
 Requires:	python
 Requires:	python-dbus
+Requires:	python-libreport >= %{libreportver}
 Requires:	python-pygobject3
 Requires:	python-rpm
 Requires:	yum
