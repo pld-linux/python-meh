@@ -27,7 +27,7 @@ BuildRequires:	python-dbus
 BuildRequires:	python-devel
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	gtk+3
 Requires:	libreport-cli >= %{libreportver}
 Requires:	libreport-gtk >= %{libreportver}
